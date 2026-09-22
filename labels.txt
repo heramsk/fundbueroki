@@ -1,0 +1,4 @@
+0 Flasche
+1 Hose
+2 Pulli
+3 Sonstiges
